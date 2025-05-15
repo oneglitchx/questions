@@ -138,4 +138,20 @@ II. Programming and Language Arts:
  * The term "language" is used for both human communication and instructing computers. What are the fundamental similarities and differences between these two types of languages?
  * How might storytelling or narrative structures be applied to the way you design the user interface or the flow of a program?
 III. Programming and Science:
- * In science, you follow the scientific method: observation, hypothesis, experimentation, analysis, and conclusion. How might the process of writing and debugging a
+ * In science, you follow the scientific method: observation, hypothesis, experimentation, analysis, and conclusion. How might the process of writing and debugging a program mirror this scientific approach?
+ * Think about data collection and analysis in a science experiment. How does Python's use in data analytics relate to this process?
+ * Many scientific simulations (e.g., weather forecasting, modeling chemical reactions) rely heavily on programming. How does the ability of computers to perform rapid calculations aid scientific discovery?
+ * Consider the concept of a system in science (e.g., the solar system, an ecosystem). How might you model such a system using the principles of object-oriented programming?
+ * How might Python libraries like NumPy and Matplotlib be used to visualize scientific data and make it easier to understand?
+IV. Programming and Social Studies:
+ * Think about how instructions and rules govern social systems (e.g., traffic laws, school rules). How is this similar to the way code dictates the behavior of a computer program?
+ * The development and spread of programming languages have had a significant impact on society. Can you think of a few ways in which technology powered by programming has changed our lives?
+ * Ethical considerations are important in both social studies and programming (e.g., data privacy, algorithmic bias). Can you identify a potential ethical issue that might arise from the use of AI or other Python-based technologies?
+ * How might the concept of algorithms and automation impact employment and the economy, a topic often discussed in social studies?
+ * Consider the open-source nature of Python. How does this collaborative model relate to ideas of community and shared resources that you might learn about in social studies?
+V. Programming and Arts/Music:
+ * While seemingly different, can you find any parallels between the logical structure of a computer program and the structure of a musical composition (e.g., sequences of notes, repetition of themes)?
+ * How might programming be used as a tool for creative expression in digital art, music generation, or interactive installations?
+ * Think about the design process in art or architecture. How might the iterative process of writing and refining code be similar to creating a design?
+ * How might the concept of algorithms be applied to generate patterns or designs in visual art?
+ * Could you imagine using Python to control lights or sound in a theatrical performance? How would you need to structure the program to achieve specific artistic effects?
